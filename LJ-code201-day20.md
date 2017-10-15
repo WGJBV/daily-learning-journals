@@ -1,0 +1,2 @@
+#Daily Learning Journal day 20 (Final)
+Today we didn't do too much in terms of coding, we wanted our website's actual domain to be completely up to date by presentation time. However, during the actual presentation we decided to use github to host instead just to be safe. I did learn a lot more today about gh-pages and how to use the merge functionality instead of pulling from master. I also learned a lot about my teammates and how they're all very cool people. I couldn't be happier with the group I was put into. 

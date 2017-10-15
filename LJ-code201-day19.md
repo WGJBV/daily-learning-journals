@@ -1,0 +1,2 @@
+#Daily Learning Journal day 19
+Today we wrapped up the entire project. I was able to finally work out how to position and place the animations above their respective cats. As well as how to actually implement the other sprite animation. I originally made only one canvas to display the animations but quickly learned that not only would I need two canvas's but also two separate render functions. I learned a lot today about trial and error with percentages in CSS, a lot about how to direct a render function to which canvas and a lot about how to push to gh-pages.
